@@ -1,0 +1,178 @@
+#one {
+    background: url(sec-1-pic/sec-1-pic-1.jpg) no-repeat;
+    background-size: contain;
+    padding: 600px 1px 600px 1px;
+}
+
+.sec-one {
+    color: white;
+    margin-left: 413px;
+    margin-top: -113px;
+}
+
+p#p-one {
+    margin-left: 683px;
+    margin-bottom: 41px;
+    margin-top: -25px;
+}
+
+button#btn-one {
+    padding: 11px 30px;
+    border: transparent;
+    background-color: #745cf9;
+    margin-left: 741px;
+}
+
+button#btn-two {
+    padding: 11px 30px;
+    background-color: transparent;
+    border-color: white;
+    margin-left: 5px;
+}
+
+button#btn-three {
+    padding: 11px 30px;
+    border: transparent;
+    background-color: #745cf9;
+    color: white;
+}
+
+img#sec-image-one {
+    float: left;
+    margin-top: -199px;
+}
+
+p.sec-two {
+    color: gray;
+}
+
+.sec-two {
+    float: none;
+}
+
+button#btn-four {
+    padding: 11px 30px;
+    border: transparent;
+    background-color: #745cf9;
+    color: white;
+    margin-top: -8px;
+}
+
+}
+
+img#sec-image-two {
+    float: right;
+    margin-top: -388px;
+}
+
+section#five {
+    margin-top: 431px;
+    margin-left: 54px;
+}
+
+p.sec-five {
+    width: 400px;
+    height: 100px;
+    overflow: hidden;
+    color: gray;
+}
+
+}
+
+section#five {
+    float: right;
+    margin-top: 531px;
+    margin-right: 99px;
+}
+
+#six {
+    background: url(sec-6-pics/sec-6-pic-1.jpg) no-repeat;
+    background-size: contain;
+    padding: 437px 465px;
+    margin-top: 362px;
+}
+
+.sec-six {
+    color: white;
+}
+
+button#btn-sec-six {
+    padding: 11px 30px;
+    border: transparent;
+    background-color: #745cf9;
+    margin-left: 242px;
+}
+
+button {
+    padding: 11px 30px;
+    background-color: #745cf9;
+    margin-left: 187px;
+    color: white;
+}
+
+p#p-seven {
+    margin-left: -267px;
+}
+
+#seven {
+    margin-left: 529px;
+}
+
+img#sec-image-seven {
+    margin-left: -537px;
+    border: 193px solid #f5f5f5;
+    border-bottom-width: 0px;
+    border-top-width: 29px;
+    border-right-width: 0px;
+}
+
+img.sec-8-image {
+    width: 388px;
+    margin: -5px;
+}
+
+img.sec-8-image:hover {
+    opacity: 0.4;
+}
+
+#eight {
+    background-color: black;
+    color: white;
+    padding-bottom: 7px;
+    padding-top: 1px;
+}
+
+.sec-eight {
+    padding-left: 565px;
+}
+
+#p-eight {
+    padding-left: 629px;
+    padding-bottom: 20px;
+}
+
+#nine {
+    background: url(sec-9-pic/sec-9-pic-2.jpg) no-repeat;
+    background-size: contain;
+    padding: 437px 465px;
+    margin-top: 0px;
+    color: white;
+}
+
+#sec-9-image {
+    margin-left: 235px;
+    border-radius: 92px;
+}
+
+.sec-nine {
+    margin-top: 8px;
+}
+
+img.sec-10-image {
+    width: 78px;
+    margin-left: 176px;
+    opacity: 0.4;
+}
+img.sec-10-image:hover{
+    opacity: 1 ;
+}
